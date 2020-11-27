@@ -45,12 +45,12 @@ class _HomeState extends State<Home> {
                       });
                       },
                     icon: Icon(
-                        Icons.edit_location,
+                        Icons.edit,
                       color: iColor,
 
                     ),
                     label: Text(
-                      'Edit Location',
+                      'Change your Location',
                     style: TextStyle(
                       color: iColor,
                     ),
